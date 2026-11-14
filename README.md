@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aquib786-mac/My_DSA_Leet_Codes/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/Aquib786-mac/My_DSA_Leet_Codes/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Aquib786-mac/My_DSA_Leet_Codes/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -14,6 +15,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Aquib786-mac/My_DSA_Leet_Codes/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Aquib786-mac/My_DSA_Leet_Codes/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
